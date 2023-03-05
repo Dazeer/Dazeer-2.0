@@ -1,0 +1,9 @@
+lib/
+dist/
+build/
+__pycache__/
+logs/
+lib/config.json
+lib/config.json
+lib/tokens.txt
+lib/tokens.txt

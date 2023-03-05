@@ -1,0 +1,2 @@
+@ECHO off
+pyarmor pack --clean -e " --onefile --key="DWfegrg4tew453t32e" --icon=icon.ico --hidden-import=requests --hidden-import=colorama --hidden-import=console --hidden-import=pypresence --hidden-import=capmonster_python --hidden-import=selenium --hidden-import=pygetwindow --hidden-import=webdriver_manager --hidden-import=discum --hidden-import=discum.start.login" dazeer.py
